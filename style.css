@@ -1,0 +1,345 @@
+/*task1*/
+.d1{
+   text-align: center;
+   font-size: 20px;
+ color: white;
+   background-color: orange;
+   width: 60px;
+   padding:25px 50px;
+   margin:auto; margin-bottom: 10px;
+   opacity: 1;
+}
+
+.d2{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    background-color: orange;
+    width: 60px;
+    padding:25px 50px ;
+    margin: auto; margin-bottom: 10px;
+    opacity: 0.75;
+}
+.d3{
+   text-align: center;
+   font-size: 20px;
+   color: white;
+   background-color: orange;
+    width: 60px;
+    padding: 25px 50px;
+    margin: auto; margin-bottom: 10px;
+    opacity: 0.5;
+}
+.d4{
+   text-align: center;
+   font-size: 20px;
+   color: white;
+   
+   background-color: orange;
+    width: 60px;
+    padding: 25px 50px;
+    margin: auto; margin-bottom: 10px;
+    opacity: 0.25;
+}
+/*task2*/
+.t1{
+    width: 300px;
+    height: 50px;
+    padding: 5px;
+    border: 1px solid black;
+    overflow: visible;
+    margin-bottom: 50px;
+    
+}
+.t2{
+width: 300px;
+height: 50px;
+padding: 5px;
+border: 1px solid black ;
+overflow: hidden;
+margin-bottom: 50px;
+}
+.t3{
+    width: 300px;
+    height: 50px;
+    padding: 5px;
+    border: 1px solid black ;
+    overflow:scroll;
+    margin-bottom: 50px;
+    }
+.t4{
+    width: 300px;
+    height: 50px;
+    padding: 5px;
+    border: 1px solid black;
+    overflow: auto;
+    margin-bottom: 50px;
+}
+
+/*task3*/
+.p1{
+    border-style:solid; border-width: 3px;
+    padding: 10px 10px;
+    width: 150px;
+    height: 25px;
+    margin-bottom: auto;
+    text-align: center;
+
+}
+.p2{
+    border-style: dashed; border-width: 3px;
+    border-color: red;
+    padding: 10px 10px;
+    width: 150px;
+    height: 25px;
+    margin-bottom: auto;
+    text-align: center;
+}
+.p3{
+    border-style: dotted; border-width: 3px;
+    border-color: blue;
+    padding: 10px 10px;
+    width: 150px;
+    height: 25px;
+    margin-bottom: auto;
+    text-align: center;
+}
+.p4{
+    border-style:double ; border-width: 3px;
+    border-color: purple;
+    padding: 10px 10px;
+    width: 150px;
+    height: 25px;
+    margin-bottom: auto;
+    text-align: center;
+}
+.p5{
+    border-style: groove; border-width: 3px;
+    border-color: fuchsia;
+    padding: 10px 10px;
+    width: 150px;
+    height: 25px;
+    margin-bottom: auto;
+    text-align: center;
+}
+.p6{
+    border-style: ridge; border-width: 4px;
+    border-color: greenyellow;
+    padding: 10px 10px;
+    width: 150px;
+    height: 25px;
+    margin-bottom: auto;
+    text-align: center;
+}
+.p7{
+    border-style: inset; border-width: 3px;
+    border-color:yellow ;
+    padding: 10px 10px;
+    width: 150px;
+    height: 25px;
+    margin-bottom: auto;
+    text-align: center;
+}
+.p8{
+    border-style: outset; border-width: 3px;
+    border-color: brown;
+    padding: 10px 10px;
+    width: 150px;
+    height: 25px;
+    margin-bottom: auto;
+    text-align: center;
+}
+/*task4*/
+.o1{
+    border-style: solid;border-width:3px;
+    border-color: blue;
+    padding: 30px 20px;
+    width: 100px;
+    height: 40px;
+    margin-bottom: auto;
+    text-align: center;
+
+}
+.o2{
+    outline-style: solid; outline-width: 3px;
+    outline-color: red;
+    padding: 30px 20px;
+    width: 100px;
+    height: 40px;
+    margin-bottom: auto;
+    text-align: center;
+}
+.o3{
+    border-style: solid;border-color: blue ;border-width: 3px;
+    outline-style: dashed;outline-color: fuchsia ;outline-width: 3px;
+padding: 30px 20px;
+width: 100px;
+height: 40px;
+margin-bottom: auto;
+text-align: center;
+
+}
+.o4{
+    border-style: solid;border-color: green;border-width: 3px;
+    outline-style: solid;outline-color: orange;outline-width: 3px;
+    outline-offset: 8px      ;  padding: 30px 20px;
+width: 100px;
+height: 40px;
+margin-bottom: auto;
+text-align: center;
+}
+/*task5*/
+.b1{
+    border-style: solid;border-color: purple;border-width: 3px;
+background-color:pink; padding: 30px 10px;
+}
+/*task6*/
+.b2{
+    border-style: solid;border-color: purple;border-width: 3px;
+    background-color:pink; margin: 20px 20px ;
+}
+/*task7*/
+.b3{
+   border-style: solid;border-color: orange;border-radius: 5px;
+   background-color: orange;padding: 10px 40px;
+   width: 100px;height: 80px;margin-bottom:50px ;
+   box-shadow: 10px 10px 15px;
+}
+.b4{
+    border-style: solid;border-color: orange;border-radius: 5px;
+   background-color: orange;padding: 10px 40px;
+   width: 100px;height: 80px;margin-bottom:50px ;
+   box-shadow:inset 5px 5px 10px;
+}
+.b5{
+    border-style: solid;border-color: orange;border-radius: 5px;
+    background-color: orange;padding: 10px 40px;
+    width: 100px;height: 80px;margin-bottom:50px ;
+    box-shadow: red -5px -5px 10px; 
+}
+/*task8*/
+.b6{
+    border-style:solid;border-color: black; border-width: 2px;
+    position: relative; height: 70px; 
+}
+.b7{
+    border-style: solid;border-color:mediumspringgreen;border-width: 2px;
+    width: 400px; height: 100px; background-color: mediumspringgreen;
+    position: absolute ; top: 5px; left: 150px;
+}
+.b8{
+    border-style: solid;border-color:blue;border-width: 2px;
+    width: 580px; height: 80px; background-color: blue;
+    position: fixed;margin-top: -5px   ;left:15px  ;z-index:1 ;
+}
+/*task9*/
+.m1{
+    border-style: solid;text-align: left;color: white;font-size: medium;
+    border-radius: 20px;
+    width: 70px;height: 60px;
+    border-color: blue;background-color: blue;
+    position: absolute;left:10px;top:10px ;z-index: -2;
+}
+.m2{
+    border-style: solid;text-align: left;color: white;font-size: medium;
+    border-radius: 20px; width: 70px;height: 60px;
+    border-color: red;background-color: red;
+    position: absolute;top:20px;left:20px ;z-index: -1;
+}
+.m3{
+    border-style: solid;text-align: left;color: white;font-size: medium;
+    border-radius: 20px; width: 70px;height: 60px;
+    border-color: peachpuff;background-color: peachpuff;
+    position: absolute;left:30px;top: 30px ;z-index: 0;
+}
+.m4{
+    border-style: solid;text-align: left;color: white;font-size: medium;
+    border-radius: 20px; width: 70px;height: 60px;
+    border-color: green;background-color: green;
+    position: absolute;top:40px;left: 40px ;z-index: 1;
+}
+/*task10*/
+.w1{
+    border-style: solid;border-color: fuchsia;background-color: fuchsia;
+    width: 200px;height: 150px;text-align:left;position: absolute;left:10px;
+}
+.w2{
+    border-style: solid;border-color:aqua;background-color: aqua;
+    width: 200px;height: 150px;text-align:left;position: absolute;right:20px;
+}
+.w3{
+    border-style: solid;border-color:chartreuse;background-color:chartreuse;
+    width: 200px;height: 150px;text-align:left;position: absolute;bottom:20px;
+}
+.w4{
+    border-style: solid;border-color:slateblue;background-color:slateblue;
+    width: 200px;height: 150px;text-align:left;position: absolute;bottom:20px;right:20px;
+}
+/*task11*/
+.z1{
+    border-bottom-style:dashed;border-bottom-color:blue;border-width: 5px;
+    width:200px;border-left-style: solid; border-left-color:  red;
+    margin-top: 90px;
+}
+/*task12*/
+.k1{
+    border-style: solid;border-width: 5px;border-color: crimson;
+    margin-bottom:90px;
+    height: 90px;
+}
+.in{
+    border-style: dashed;border-width: 2px;border-color: black;
+    background-color: peachpuff;margin-top:5px;height: 30px;width: 700px;padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+/*task13*/
+.v1{
+    border-style: solid;border-color: aqua;height: 250px;
+    width: 200px; padding: 30px;overflow:auto;margin-top: 200px;
+    font-size: large;
+}
+.n1{
+    font-size: x-large;
+}
+/*task14*/
+.n2{
+    border-style: solid;border-width: 1px;
+    padding: 5px; border-color: red; width: 200px;height: 100px;
+    box-shadow: 5px -5px blue, 10px -10px green,15px -15px purple;
+    margin-top: 200px;
+}
+/*task15*/
+
+
+
+
+/*task16*/
+.img2{
+    position: fixed;left:10px;top: auto;
+}
+.par{
+    margin-left: 200px;
+}
+.q1{
+    font-size: large;
+}
+/*task17*/
+header{
+    background-color: rgb(63, 19, 19);
+width:auto;height: 30px;padding-top:10px ; position:sticky;
+}
+button{
+    background:none;border: none; color: whitesmoke;
+}
+
+/*task19*/
+.x1{
+   border-style: solid;
+   border-image-width: 10px;
+    border-image-source:url(border.webp);
+    border-image-slice: 100;
+width: 500px;height: 200px; padding-top: 30px;padding-left: 10px;
+margin-top: 200px;
+}
